@@ -1,5 +1,3 @@
-# fullstackopen-2025
-
 # Full Stack Open 2025 – Exercise Submissions
 
 This repository contains my exercise submissions for the [Full Stack Open 2025](https://fullstackopen.com/en/) course offered by the University of Helsinki.
