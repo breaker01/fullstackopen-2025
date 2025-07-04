@@ -32,4 +32,7 @@ coverage/
 *.swo
 
 push.sh
-chatgpt.png
+notes_steps.txt
+sonar-env/
+setup.txt
+.ipynb_checkpoints/
